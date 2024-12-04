@@ -10,8 +10,7 @@ class LoginRegisterClass(CTk):
         self.geometry("600x450")
         self.current_user_id = None
         
-        # Add background color
-        self.configure(bg_color="#2E4053")  # Dark blue-gray background
+        self.configure(bg_color="#2E4053") 
 
         self.create_widgets()
 

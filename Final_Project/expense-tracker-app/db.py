@@ -1,7 +1,7 @@
 import sqlite3
 
 def connect_to_database():
-    conn = sqlite3.connect('ohhwow.db')
+    conn = sqlite3.connect('PS.db')
     cursor = conn.cursor()
     cursor.execute('''CREATE TABLE IF NOT EXISTS users (
                         id INTEGER PRIMARY KEY,

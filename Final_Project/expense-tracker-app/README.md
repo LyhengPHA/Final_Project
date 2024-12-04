@@ -1,6 +1,6 @@
-# Expense Tracker Application
+# Personal Finance Management System
 
-The **Expense Tracker Application** is a streamlined tool designed to assist users in overcoming challenges with financial management. This application provides a user-friendly platform to track expenses, manage budgets, and gain better control over personal or organizational finances.
+The **Personal Finance Management System** is a streamlined tool designed to assist users in overcoming challenges with financial management. This application provides a user-friendly platform to track expenses, manage budgets, and gain better control over personal or organizational finances.
 
 ---
 
